@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">khaidirnalakhudin17110298</string>
+    <string-array name="negara_asal">
+        <item>--Silahkan Pilih--</item>
+        <item>Indonesia</item>
+        <item>Malaysia</item>
+        <item>Singapura</item>
+        <item>Brunei Darussalam</item>
+        <item>Laos</item>
+        <item>Kamboja</item>
+        <item>Cina</item>
+        <item>Australia</item>
+        <item>Vietnam</item>
+        <item>Philipina</item>
+        <item>India</item>
+        <item>Afganistan</item>
+        <item>Irak</item>
+        <item>Inggris</item>
+    </string-array>
+</resources>
